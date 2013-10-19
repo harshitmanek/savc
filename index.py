@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 def main():
     print "**************MENU*******************"
@@ -18,11 +18,11 @@ def main():
 
 
 def cube_volume():
-    side=raw_input("Enter side: ")
+    s=int(raw_input("Enter side: "))
     volume=s*s*s*1.0
     print volume
 def cube_surface_area():
-    side=raw_input("Enter side: ")
+    s=int(raw_input("Enter side: "))
     surfacearea=6.0*s*s
     print surfacearea
 def cuboid_surface_area():
@@ -37,5 +37,4 @@ def cuboid_volume():
     height=float(raw_input("enter the height"))
     volume=length*breadth*height
     print volume
->>>>>>> 89bfc225f00fade9d65058131d4ae401710f9eeb
->>>>>>> 89966e17325755565318d18053893e95ed68c12f
+main()
