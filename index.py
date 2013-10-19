@@ -6,3 +6,5 @@ def cube_surface_area():
     pass
 def cuboid_surface_area():
     pass
+def cuboid_volume():
+    pass
