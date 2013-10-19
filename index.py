@@ -1,9 +1,3 @@
-def main():
-    pass
-def cube_volume():
-    pass
-def cube_surface_area():
-    pass
 def cuboid_surface_area():
     length=float(raw_input("enter the length"))
     breadth=float(raw_input("enter the breadth"))
